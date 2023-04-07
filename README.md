@@ -1,6 +1,6 @@
 # Web-Library-Store
 
-Web Library Store is an e-commerce application created using Angular and Express frameworks, with the primary objective of providing a shared platform for multiple sellers to sell books online. The application is built on a technology stack consisting of front-end technologies such as Angular, HTML5, CSS, JavaScript/jQuery/TypeScript, and Bootstrap, while the back-end is powered by Express.js and Node.js. The database used is in JSON format, and the application uses a RESTful API to interact with the database.
+Web Library Store is an e-commerce application created using Angular and Express frameworks, with the primary objective of providing a shared platform for multiple sellers to sell books online, along with a CRM. The application is built on a technology stack consisting of front-end technologies such as Angular, HTML5, CSS, JavaScript/jQuery/TypeScript, and Bootstrap, while the back-end is powered by Express.js and Node.js. The database used is in JSON format, and the application uses a RESTful API to interact with the database.
 
 
 # Pre-requisites 
@@ -28,7 +28,15 @@ To use the application, follow these steps:
 Start the server using npm start
 Access the application in your browser by navigating to http://localhost:3000.
 
+# Features
 
+* Multiple sellers can create accounts and list products for sale.
+* Customers can browse and purchase products from multiple sellers.
+* An admin panel is available to manage marketing campaigns, users, sellers, and customers.
+Customers can create accounts to save their order history and preferences.
+* A search function allows customers to easily find specific products.
+
+ 
 # Contributing
 
 If you're interested in contributing, please create a pull request with your changes.
