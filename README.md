@@ -4,10 +4,10 @@ Web Library Store is an e-commerce application created using Angular and Express
 
 # Installation and Setup
 
-Clone the repository.
-Open a terminal window in the project directory and run the command 'npm install' to install the required dependencies.
-Run the command 'npm start' to start the server.
-Open a web browser and navigate to 'localhost:3000' to access the web store.
+1. Clone the repository.
+2. Open a terminal window in the project directory and run the command 'npm install' to install the required dependencies.
+3. Run the command 'npm start' to start the server.
+4. Open a web browser and navigate to 'localhost:3000' to access the web store.
 
 #Usage
 
