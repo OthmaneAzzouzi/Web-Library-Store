@@ -16,8 +16,8 @@ Before setting up and running this application, make sure you have the following
 # Installation and Setup
 
 1. Clone the repository.
-2. Open a terminal window in the project directory and run the command 'npm install' to install the required dependencies.
-3. Run the command 'npm start' to start the server.
+2. Open a terminal window in the project directory and run the command 'nnpm install express body-parser --save' to install the required dependencies.
+3. Run the command 'node tpapp.js' to start the server.
 4. Open a web browser and navigate to 'localhost:3000' to access the web store.
 
 
