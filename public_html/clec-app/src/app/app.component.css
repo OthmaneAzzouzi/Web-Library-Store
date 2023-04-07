@@ -1,0 +1,15 @@
+.container-acceuil {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position:relative;
+    top: 90px;
+}
+
+
+footer{
+    position:fixed;
+    bottom:0px;
+  
+    width:100%;
+  }

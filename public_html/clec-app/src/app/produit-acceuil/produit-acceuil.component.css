@@ -1,0 +1,70 @@
+.description-produits-acceuil {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.produits-acceuil {
+    display: block; 
+    position: relative;
+    width: 100%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+.produits-acceuil .affiche-livre-acceuil{
+    width: 100%;
+    height: 33%;
+    display: block;
+    position: relative;
+}
+
+.affiche-livre-acceuil img {
+    width: 100%;
+    height: 75%;
+}
+
+.affiche-livre-acceuil .description-livre-acceuil {
+    width: 100%;
+    height: 25%;
+    margin-top: 2%;
+}
+
+.description-livre-acceuil .titre-livre {
+    text-align: center;
+    display: block;
+    position: relative;
+    height: 30%;
+}
+
+.description-livre-acceuil .auteur-livre {
+    text-align: center;
+    display: block;
+    position: relative;
+    height: 30%;
+}
+
+.description-livre-acceuil .prix-livre {
+    text-align: center;
+    display: block;
+    position: relative;
+    height: 20%;
+}
+
+.liste-des-livres-acceuil {
+    display: block;
+    position: relative;
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.bouton-decouvrez-plus {
+    width: 100%;
+    height: inherit;
+    display: block;
+    position: relative;
+    text-align: center;
+    padding-bottom: 2%;
+}
+

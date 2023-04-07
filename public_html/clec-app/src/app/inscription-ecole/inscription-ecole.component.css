@@ -1,0 +1,43 @@
+.conteneur-inscription {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+
+.titre-inscription {
+    text-align: center;
+}
+
+.button-choix-inscription{
+    width: 100%;
+    align-items: center;
+}
+
+.button-personel {
+    display: inline;
+    position: relative;
+    width: 99%;
+}
+
+.button-ecole{
+    display: inline;
+    position: relative;
+    width: 99%;
+}
+
+.formulaire-inscription-adresse {
+    display: block; 
+}
+
+.adresse, .ville, .province, .postal, .nom, .prenom {
+    display: inline-block;
+    position: relative;
+    width: 49%;
+}
+
+.btn-connexion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
