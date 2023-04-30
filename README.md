@@ -40,3 +40,8 @@ Customers can create accounts to save their order history and preferences.
 # Contributing
 
 If you're interested in contributing, please create a pull request with your changes.
+
+# Important Note on Code Conventions
+
+Please be aware that in the source code for this program, variable names, function names, and comments are primarily written in French. I understand that this might pose some challenges for users who are not familiar with the French language. However, I have ensured that the user documentation, such as this README, is written in English for broader accessibility.
+
